@@ -1,0 +1,25 @@
+#eightBall {
+    width: 15%;
+}
+.centerText {
+    text-align: center;
+}
+.centerElement {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Affirmative {
+    color: Green;
+}
+.Contrary {
+    color: red;
+}
+.Neutral {
+    color: black;
+}
+
+body {
+    background-color: rgb(230,230,230);
+}
